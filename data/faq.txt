@@ -1,0 +1,350 @@
+Q: How do I open a bank account?
+A: You can open a bank account by visiting any branch with a valid ID and proof of address or  through Bank website
+
+Q: How can I reset my ATM PIN?
+A: You can reset your ATM PIN at any branch or through net banking.
+
+Q: How do I open a savings account?
+A: You can open a savings account by visiting any branch with a valid ID and proof of address.
+
+Q: What documents are required to open a bank account?
+A: Typically, a government-issued ID, proof of address, and recent photograph are required.
+
+Q: Can I open an account online?
+A: Yes, most banks allow online account opening through their official website or mobile app.
+
+Q: How do I apply for a debit card?
+A: You can apply for a debit card at the time of account opening or request it later through net banking.
+
+Q: How do I apply for a credit card?
+A: Credit cards can be applied online via the bank website or by visiting a branch with your KYC documents.
+
+Q: What is the minimum balance for a savings account?
+A: The minimum balance varies by bank and account type; typically ranges from ₹1,000 to ₹10,000.
+
+Q: How do I reset my ATM PIN?
+A: You can reset your ATM PIN at an ATM, through net banking, or by visiting your branch.
+
+Q: How can I check my account balance?
+A: You can check your balance via SMS banking, net banking, mobile banking app, or ATM.
+
+Q: What is a passbook?
+A: A passbook is a booklet provided by the bank to record all transactions in your account.
+
+Q: How do I update my address in the bank records?
+A: Visit your branch with valid proof of address or update it through net banking if available.
+
+Q: How do I link my Aadhaar to my bank account?
+A: You can link Aadhaar by submitting it at your branch, using an ATM, or via net banking.
+
+Q: What is NEFT?
+A: NEFT (National Electronic Funds Transfer) is a system to transfer money between banks electronically.
+
+Q: What is RTGS?
+A: RTGS (Real-Time Gross Settlement) allows high-value interbank money transfers in real time.
+
+Q: What is IMPS?
+A: IMPS (Immediate Payment Service) allows instant money transfers 24x7 using mobile or internet banking.
+
+Q: How long does NEFT transfer take?
+A: NEFT transfers are usually settled in batches and may take a few hours on the same working day.
+
+Q: How long does RTGS transfer take?
+A: RTGS transfers are processed in real-time, usually within minutes on working hours.
+
+Q: How long does IMPS transfer take?
+A: IMPS transfers are instant and usually complete within seconds.
+
+Q: Can I transfer money internationally from my account?
+A: Yes, through SWIFT/telegraphic transfer services provided by your bank.
+
+Q: What is a fixed deposit?
+A: A fixed deposit is a financial instrument where you deposit a lump sum for a fixed tenure to earn interest.
+
+Q: How do I open a fixed deposit?
+A: Fixed deposits can be opened at a branch, online banking, or mobile app by selecting the deposit tenure and amount.
+
+Q: Can I prematurely withdraw my fixed deposit?
+A: Yes, but banks usually charge a penalty or offer a lower interest rate.
+
+Q: What is a recurring deposit?
+A: A recurring deposit is an account where you deposit a fixed amount every month to earn interest over time.
+
+Q: How do I close my bank account?
+A: Visit your branch with ID, passbook, and debit/cheque cards to close your account.
+
+Q: What is KYC?
+A: KYC (Know Your Customer) is the process of verifying a customer’s identity for banking transactions.
+
+Q: How do I complete KYC for my account?
+A: Submit valid ID proof, address proof, and a recent photograph at your branch.
+
+Q: Can I link multiple bank accounts to my mobile number?
+A: Yes, you can link multiple accounts to a single mobile number using your bank’s services.
+
+Q: What is a UPI ID?
+A: UPI ID is a unique virtual payment address linked to your bank account for instant transactions.
+
+Q: How do I create a UPI ID?
+A: Use your bank’s mobile app or UPI-enabled app to register a UPI ID linked to your account.
+
+Q: Can I transfer money using UPI?
+A: Yes, UPI allows instant money transfer between accounts using the UPI ID, mobile number, or QR code.
+
+Q: Is there a transaction limit on UPI?
+A: Yes, most banks have a daily limit, typically ₹1 lakh per day, depending on bank policies.
+
+Q: How do I block a lost debit/credit card?
+A: Call your bank’s customer care or use net banking/mobile app to block the card immediately.
+
+Q: What is a cheque book?
+A: A cheque book is a booklet of preprinted cheques that allow you to pay money from your account.
+
+Q: How do I request a new cheque book?
+A: You can request it via net banking, mobile app, or by submitting a request at your branch.
+
+Q: How do I stop a cheque payment?
+A: Request a stop payment at your branch or through net banking before the cheque is cleared.
+
+Q: What is an overdraft facility?
+A: Overdraft allows you to withdraw more than your account balance up to an approved limit.
+
+Q: How do I apply for an overdraft?
+A: Approach your bank with income proof and account statements to apply for an overdraft.
+
+Q: What is a loan against fixed deposit?
+A: It is a loan facility where your fixed deposit acts as collateral for borrowing money.
+
+Q: What is a personal loan?
+A: A personal loan is an unsecured loan for personal expenses such as medical, travel, or education.
+
+Q: How do I apply for a personal loan?
+A: Submit a loan application with KYC documents, income proof, and bank statements.
+
+Q: What is a home loan?
+A: A home loan is a loan for purchasing, building, or renovating a house.
+
+Q: How do I apply for a home loan?
+A: Apply online or at a branch with KYC documents, income proof, and property documents.
+
+Q: How do I check my loan status?
+A: You can check loan status via net banking, mobile app, or by contacting customer care.
+
+Q: What is a credit score?
+A: Credit score is a numeric representation of your creditworthiness, based on loan and repayment history.
+
+Q: How do I improve my credit score?
+A: Pay EMIs on time, avoid defaults, maintain low credit utilization, and regularly check your report.
+
+Q: How can I pay my credit card bill?
+A: Credit card bills can be paid via net banking, mobile app, UPI, or by visiting a branch.
+
+Q: What is a minimum payment on a credit card?
+A: It is the least amount required to keep your account in good standing, usually 5% of total due.
+
+Q: Can I increase my credit card limit?
+A: Yes, banks review your account activity and income to offer higher credit limits.
+
+Q: How do I report a fraudulent transaction?
+A: Contact your bank immediately via customer care or net banking to report fraud.
+
+Q: How do I set up auto-debit for bills?
+A: Link your bills to your account or credit card for automatic monthly deductions via net banking.
+
+Q: What is a savings account interest rate?
+A: It is the rate at which the bank pays interest on your savings account balance, typically 3–4% annually.
+
+Q: What is the difference between savings and current accounts?
+A: Savings accounts are for personal use with interest, current accounts are for businesses with no interest.
+
+Q: Can I deposit cash at any branch?
+A: Yes, you can deposit cash at any branch of the same bank.
+
+Q: Can I deposit cash at another bank’s ATM?
+A: Some banks allow it, but charges may apply.
+
+Q: Can I withdraw money internationally?
+A: Yes, using international debit or credit cards at ATMs abroad.
+
+Q: What is a mobile banking app?
+A: A mobile banking app allows you to perform transactions and check account details via your smartphone.
+
+Q: How do I register for mobile banking?
+A: Download your bank’s app and complete registration using account and KYC details.
+
+Q: Can I transfer money using mobile banking?
+A: Yes, you can transfer money via NEFT, RTGS, IMPS, or UPI within the app.
+
+Q: What is SMS banking?
+A: SMS banking allows you to perform simple banking operations via SMS commands.
+
+Q: What is net banking?
+A: Net banking allows you to manage your account online using a secure website.
+
+Q: How do I check my bank statement?
+A: You can download or view your bank statement via net banking, mobile app, or branch request.
+
+Q: How do I request a new ATM card?
+A: Submit a request through net banking, mobile app, or at your branch.
+
+Q: How do I update my phone number in bank records?
+A: Visit your branch with valid ID or update via net banking/mobile app if available.
+
+Q: How do I update my email address in bank records?
+A: Visit your branch with valid ID or update via net banking/mobile app if available.
+
+Q: Can I open a joint account?
+A: Yes, you can open a joint account with multiple account holders and shared KYC documents.
+
+Q: Can I close a joint account?
+A: Yes, all account holders must sign the closure request at the branch.
+
+Q: What is a locker facility?
+A: A locker allows you to store valuables securely at your bank.
+
+Q: How do I apply for a locker?
+A: Visit your branch and submit a locker request form with KYC documents.
+
+Q: How much does a locker cost?
+A: Locker charges vary by size and bank; typically annual rent ranges from ₹500–₹5,000.
+
+Q: What is a demand draft?
+A: A demand draft is a prepaid instrument used to transfer money safely between banks.
+
+Q: How do I issue a demand draft?
+A: Request it at your branch and pay the required amount plus charges.
+
+Q: How do I cancel a demand draft?
+A: Visit your branch with the original draft and request cancellation; charges may apply.
+
+Q: What is a standing instruction?
+A: A standing instruction is a directive to the bank to make recurring payments automatically.
+
+Q: How do I set up a standing instruction?
+A: Submit the instruction at your branch or via net banking.
+
+Q: What is an ECS mandate?
+A: ECS (Electronic Clearing Service) allows automatic debit of recurring bills from your account.
+
+Q: Can I link multiple accounts to one UPI ID?
+A: No, one UPI ID can be linked to only one account at a time.
+
+Q: Can I get a bank statement by email?
+A: Yes, most banks provide e-statements via email if registered for net banking.
+
+Q: What is a bank IFSC code?
+A: IFSC is an 11-character code used to identify bank branches in electronic transactions.
+
+Q: How do I find my bank’s IFSC code?
+A: Check your cheque book, net banking, or the RBI website.
+
+Q: Can I schedule NEFT payments?
+A: Yes, NEFT payments can be scheduled via net banking.
+
+Q: What is a bank MICR code?
+A: MICR is a code used for faster cheque processing by banks.
+
+Q: Can I get interest on current accounts?
+A: Usually, no, but some banks may offer nominal interest on current accounts.
+
+Q: How do I update nominee details?
+A: Submit a nominee update form at your branch with valid ID proof.
+
+Q: How do I get a lost cheque reissued?
+A: Submit a request at your branch with the original cheque details.
+
+Q: How do I change my account type?
+A: Visit your branch and submit an account type change request form.
+
+Q: How do I opt-in for e-statements?
+A: Register through net banking or visit the branch to receive statements via email.
+
+Q: What is a sweep-in account?
+A: A sweep-in account automatically transfers excess funds to a fixed deposit to earn higher interest.
+
+Q: How do I link my savings account to my credit card?
+A: Link the account through net banking or request it at the branch.
+
+Q: Can I request a duplicate passbook?
+A: Yes, submit a duplicate passbook request at your branch.
+
+Q: What is a zero-balance account?
+A: A zero-balance account does not require maintaining any minimum balance.
+
+Q: Can minors open a bank account?
+A: Yes, minors can open accounts under a guardian’s supervision with required KYC documents.
+
+Q: How do I open a NRI account?
+A: NRI accounts can be opened by submitting passport, visa, and overseas address proof at your branch.
+
+Q: Can I convert a savings account to a current account?
+A: Yes, visit your branch and submit the required application for account conversion.
+
+Q: How do I apply for an education loan?
+A: Submit your application with admission letter, KYC documents, and income proof.
+
+Q: What is a digital locker?
+A: A digital locker allows you to store important documents online securely provided by your bank.
+
+Q: What are the major savings schemes offered by your bank?
+A: Our bank offers Savings Accounts, Fixed Deposits, Recurring Deposits, Senior Citizen Savings Schemes, and Pradhan Mantri Jan Dhan Yojana (PMJDY) accounts.
+
+Q: What is the Senior Citizen Savings Scheme (SCSS)?
+A: SCSS is a government-backed scheme for individuals above 60 years of age, offering higher interest rates than regular savings accounts. The tenure is typically 5 years.
+
+Q: How can I open a Recurring Deposit (RD) account?
+A: You can open an RD at any branch or online, by depositing a fixed amount every month for a predetermined tenure to earn interest.
+
+Q: What is the Pradhan Mantri Jan Dhan Yojana (PMJDY)?
+A: PMJDY is a financial inclusion scheme allowing every citizen to open a zero-balance savings account with access to a debit card, overdraft facility, and insurance benefits.
+
+Q: What is a Fixed Deposit (FD) scheme?
+A: FDs allow you to deposit a lump sum for a fixed tenure with guaranteed interest rates. Longer tenures often yield higher interest.
+
+Q: What is a Senior Citizens Fixed Deposit?
+A: A special FD for senior citizens offering higher interest rates than regular FDs, with tenure options ranging from 1 to 10 years.
+
+Q: Does your bank have education loan schemes?
+A: Yes, we provide Education Loans to cover tuition fees, hostel expenses, and related costs, both for domestic and international studies.
+
+Q: What are the personal loan schemes?
+A: Personal loans can be availed for medical emergencies, travel, weddings, or home renovations with flexible tenure and interest rates.
+
+Q: Does your bank provide home loan schemes?
+A: Yes, we offer home loans for purchasing, building, or renovating houses with competitive interest rates and flexible repayment options.
+
+Q: What is a loan against fixed deposit (LAFD)?
+A: A loan against FD allows you to borrow money by pledging your fixed deposit as collateral, usually at a lower interest rate.
+
+Q: Are there small business loan schemes?
+A: Yes, we provide SME loans, microenterprise loans, and working capital finance for small businesses and startups.
+
+Q: Does your bank have a wealth management or investment scheme?
+A: Yes, we provide mutual fund investment services, tax-saving schemes, and portfolio management for wealth growth.
+
+Q: What is the Senior Citizen Monthly Income Scheme (SCMIS)?
+A: SCMIS is a government-backed scheme for senior citizens to earn a fixed monthly income through deposits.
+
+Q: What is the Kisan Vikas Patra (KVP)?
+A: KVP is a savings certificate that doubles your investment in a specific period, mainly aimed at farmers and long-term investors.
+
+Q: Does your bank have a Public Provident Fund (PPF) scheme?
+A: Yes, PPF is a long-term investment scheme with tax benefits and guaranteed returns, ideal for retirement planning.
+
+Q: What are fixed deposit schemes for women?
+A: Some banks offer special FD schemes for women with slightly higher interest rates and flexible tenures to encourage savings.
+
+Q: What is a tax-saving fixed deposit?
+A: Tax-saving FDs allow you to save taxes under Section 80C with a lock-in period of 5 years, offering fixed returns.
+
+Q: Are there special savings schemes for children?
+A: Yes, schemes like Sukanya Samriddhi Yojana (SSY) allow parents to save for their girl child’s future with tax benefits and guaranteed returns.
+
+Q: Does your bank provide schemes for senior citizens’ healthcare?
+A: Some banks offer health insurance-linked schemes or deposits with added medical coverage benefits for senior citizens.
+
+Q: What are the digital banking schemes or benefits?
+A: Our bank offers zero-fee digital savings accounts, UPI-enabled accounts, and cashless banking with rewards for online transactions.
+
+Q: Can I get information about all the ongoing schemes?
+A: You can visit your nearest branch, check our official website, or call customer care to get detailed information about all active schemes.
